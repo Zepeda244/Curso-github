@@ -1,8 +1,5 @@
 # Curso-github
 Curso de trabajo en equipo con GITHUB
-hola es mi primer modificacion al codigo
-
-
 
                                                    1. Introducción
 Github es un hosting para git, gratuito para proyectos opensource. Git es un sistema de control de versiones distribuido.
